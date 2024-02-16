@@ -1,5 +1,5 @@
 name: Feature request
-description: Report a problem you encountered
+description: Request a new feature for VST
 title: "[Feature]: "
 labels: ["enhancement"]
 body:
